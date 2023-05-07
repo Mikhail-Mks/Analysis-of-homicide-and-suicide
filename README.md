@@ -14,10 +14,12 @@ The results were surprising and intriguing. I found that:
 * There is no significant correlation between happiness index and either homicide or suicide rate.
 * The highest variation in homicide rate is observed in Latin America among the countries with mid-low income level.
 
-These findings suggest that there are complex and multifaceted factors that influence homicide and suicide rates across the world. They also raise more questions than they answer: Why do European countries have such high suicide rates? What caused the spike in Asian countries in 2014? How does income inequality affect violence? What makes Latin America so prone to homicide?
+These findings suggest that there are complex and multifaceted factors that influence homicide and suicide rates across the world. They also raise more questions: Why do European countries have such high suicide rates? What caused the spike in Asian countries in 2014? How does income inequality affect violence? What makes Latin America so prone to homicide?
 
 
-The results of analysis were visualised in Power BI: https://www.novypro.com/project/exploratory-data-analysis-of-homicide-and-suicide-rates
+
+The results of analysis were visualised in Power BI:   
+https://www.novypro.com/project/exploratory-data-analysis-of-homicide-and-suicide-rates
 
 ### Data Sources:
 https://www.kaggle.com/datasets/prasertk/homicide-suicide-rate-and-gdp?select=suicide+homicide+gdp.csv
