@@ -2,7 +2,7 @@
 
 What drives people to kill themselves or others? This is a question that has fascinated and troubled many researchers, policymakers, and ordinary citizens. Is it poverty, inequality, unhappiness, or something else? In this project, I set out to explore the relationship between homicide and suicide rates and various socioeconomic factors, using data from Kaggle and MySQL.
 
-I used Python to clean, preprocess, and analyze the data, and to assign regions based on geographic location using HTML data. I then compared homicide and suicide rates against factors such as GDP per capita, Gini coefficient, and happiness index. I wanted to see if there were any patterns or correlations that could shed some light on the causes and consequences of these violent acts.
+I used Python to clean, preprocess, and analyze the data, and to assign regions based on geographic location using HTML data, impute missing data and classify groups. Then I compared homicide and suicide rates against factors such as GDP per capita, Gini coefficient, and happiness index. I wanted to see if there were any patterns or correlations that could shed some light on the causes and consequences of these violent acts.
 
 The results were surprising and intriguing. I found that:
 
